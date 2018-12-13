@@ -1,4 +1,16 @@
 {
-  "name":"vue-test",
-  "version":"1.0.0"
+  "name": "vue-test",
+  "version": "1.0.0",
+  "author": "ArriettyTong",
+  "description": "vue of test",
+  "repository": {
+    "type": "gitHub",
+    "url": "https://github.com/ArriettyTong/vueTest.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~3.0.1"
+  }
 }
